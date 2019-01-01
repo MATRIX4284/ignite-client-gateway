@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: ignite-kubernetes
+Implementation-Version: 2.7.0
+Archiver-Version: Plexus Archiver
+Built-By: teamcity
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: ignite-kubernetes
+Implementation-Vendor-Id: org.apache.ignite
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_181
+Specification-Version: 2.7.0
+Implementation-Vendor: The Apache Software Foundation
+
